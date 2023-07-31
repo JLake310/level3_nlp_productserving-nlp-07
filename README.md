@@ -34,20 +34,26 @@
 ### 📌 Production on [LINK](http://chosen.o-r.kr/)
 
 ### 사용자의 입력에 따른 리뷰 기반 상품 추천 서비스
-<img width="1626" alt="Flow Chart long" src="https://github.com/boostcampaitech5/level3_nlp_productserving-nlp-07/assets/86578246/3b84d954-25f4-462b-ab0a-a593a980d9df">
+<img width="1626" alt="Flow Chart long" src="https://github.com/JLake310/level3_nlp_productserving-nlp-07/assets/86578246/e8e2f474-9867-41b7-a6d8-7eb991a5da64">
+
 
 사용자가 원하는 상품과 조건을 자연어로 입력하면 상품 정보와 리뷰에 기반하여 
 조건에 맞는 상품 top 3개를 추천 및 비교해주는 서비스입니다.
 
 ### SCREENSHOTS
 #### PC
-![PC UI](https://github.com/boostcampaitech5/level3_nlp_productserving-nlp-07/assets/86578246/fc85a57c-79af-4bff-8c62-480023b895e1)
+![PC UI](https://github.com/JLake310/level3_nlp_productserving-nlp-07/assets/86578246/522d667c-e716-4358-9ab9-523b33d89c9e)
+
 
 #### MOBILE
-![Mobile UI](https://github.com/boostcampaitech5/level3_nlp_productserving-nlp-07/assets/86578246/1f6cefb7-1e78-434c-807f-0a383b15a27f)
+![Mobile UI](https://github.com/JLake310/level3_nlp_productserving-nlp-07/assets/86578246/cf970023-a3af-4797-b7a4-a8a38036cfbe)
+
 
 
 ### DEMO
-[![Video Label](http://img.youtube.com/vi/yX1H7GfcQ80/0.jpg)](https://youtu.be/yX1H7GfcQ80)
+#### DB에 상품이 있을 때의 시나리오
+![db gif](https://github.com/JLake310/level3_nlp_productserving-nlp-07/assets/86578246/36ca4918-d24c-4ffd-ab5f-d6ecbbca0c63)
 
-[![Video Label](http://img.youtube.com/vi/csRZVEaFLCc/0.jpg)](https://youtu.be/csRZVEaFLCc)
+
+#### DB에 상품이 없을 때의 시나리오(실시간 크롤링)
+![크롤링 gif](https://github.com/JLake310/level3_nlp_productserving-nlp-07/assets/86578246/07d5a821-b8bb-4e4e-bca2-fcfc3f310a78)
